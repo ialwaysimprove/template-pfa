@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "template-pfa": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "template-pfa"
+    }
+  },
+  "defaultProject": "template-pfa",
+  "cli": {
+    "analytics": "8f0e7b3e-49ba-4a79-b740-bc7535205503"
+  }
 }
